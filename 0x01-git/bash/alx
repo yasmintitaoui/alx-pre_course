@@ -1,4 +1,2 @@
-#!/bin/bash
-echo "ALX"
-^C
-cd alx-pre_course
+#! /bin/bash
+echo "ALX3
